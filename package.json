@@ -1,0 +1,19 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaCristinaGutierrez/Portafolio.git"
+  },
+  "author": "Maria Cristina Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaCristinaGutierrez/Portafolio/issues"
+  },
+  "homepage": "https://github.com/mariaCristinaGutierrez/Portafolio#readme",
+  "description": ""
+}
